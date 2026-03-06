@@ -1,0 +1,5 @@
+{
+  "name": "AgroVision",
+  "description": "AI-driven smart farming solution for crop disease detection and treatment recommendations.",
+  "requestFramePermissions": ["camera"]
+}
